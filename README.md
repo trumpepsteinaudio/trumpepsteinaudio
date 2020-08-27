@@ -23,7 +23,7 @@ Successful models might want to submit to the Acoustic Echo Cancellation Challen
 Relevant Online Commnuities: 
 Music-IR Mailing List https://groups.google.com/a/ismir.net/g/community?pli=1
 
-Maching Listening Mailing List: https://groups.google.com/forum/#!forum/machinelistening
+Machine Listening Mailing List: https://groups.google.com/forum/#!forum/machinelistening
 
 Music IR Slack: https://launchpass.com/mircommunity
 
