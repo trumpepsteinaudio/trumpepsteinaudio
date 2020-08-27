@@ -20,13 +20,7 @@ Apple has done advanced work in this space: https://machinelearning.apple.com/re
 
 Successful models might want to submit to the Acoustic Echo Cancellation Challenge at ICASSP 2021 (organized by Microsoft)
 
-Relevant Online Commnuities: 
-Music-IR Mailing List https://groups.google.com/a/ismir.net/g/community?pli=1
-
-Machine Listening Mailing List: https://groups.google.com/forum/#!forum/machinelistening
-
-Music IR Slack: https://launchpass.com/mircommunity
-
+Repo contains the starting files.
 
 <b> OTHER APPROACHES </b> 
 Beyond echo cancellation, you might want to try models that use video to select a target voice such as:
@@ -37,4 +31,13 @@ http://cvit.iiit.ac.in/research/projects/cvit-projects/speaking-by-observing-lip
 
 Send us any references/links/code that could be useful, and we will post here.
 
-Repo contains the starting files.
+<b> Relevant Online Commnuities: </b>
+
+Music-IR Mailing List https://groups.google.com/a/ismir.net/g/community?pli=1
+
+Machine Listening Mailing List: https://groups.google.com/forum/#!forum/machinelistening
+
+Music IR Slack: https://launchpass.com/mircommunity
+
+
+
