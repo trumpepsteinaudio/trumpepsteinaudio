@@ -22,8 +22,11 @@ Successful models might want to submit to the Acoustic Echo Cancellation Challen
 
 Relevant Online Commnuities: 
 Music-IR Mailing List https://groups.google.com/a/ismir.net/g/community?pli=1
+
 Maching Listening Mailing List: https://groups.google.com/forum/#!forum/machinelistening
+
 Music IR Slack: https://launchpass.com/mircommunity
+
 
 <b> OTHER APPROACHES </b> 
 Beyond echo cancellation, you might want to try models that use video to select a target voice such as:
