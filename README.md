@@ -12,9 +12,9 @@ UPDATE: In record time, a community member has found what appears to be the corr
 <b> SECOND PROBLEM </b> Let's try some echo cancellers. 
 Share any tips in the issues tab or helpful code, or email trumpepsteinaudio@gmail.com.
 
-A standard open source version is available here: https://www.speex.org/ (see Acoustic Echo Canceller)
+UPDATE: speex codec seems to not work well. how can we better model the transfer functions of the speaker->room->microphone? Are there papers the community can recommend?
+<del> A standard open source version is available here: https://www.speex.org/ (see Acoustic Echo Canceller) A python implementation is here: https://github.com/xiongyihui/speexdsp-python </del>
 
-A python implementation is here: https://github.com/xiongyihui/speexdsp-python
 
 Apple has done advanced work in this space: https://machinelearning.apple.com/research/optimizing-siri-on-homepod-in-far-field-settings
 
