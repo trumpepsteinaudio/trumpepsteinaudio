@@ -1,3 +1,5 @@
+It has been a while? Do you have audio/tips to share? Email to trumpepsteinaudio@gmail.com
+
 <b>Let's put our AI audio processing skills to good use.</b>
 
 We sure would like to know what Trump and Epstein said to each other during this exchange in the 90s. https://www.youtube.com/watch?v=KLcfpU2cubo&feature=youtu.be
